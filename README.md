@@ -2,7 +2,7 @@
 
 Technologies used : HTML ans CSS
 
-Time taken to complete : 4 hours
+Time taken to complete : 4.5 hours
 
 Deployed Link : [Dance Landing Page](https://celadon-swan-2f9910.netlify.app/)
 
